@@ -6,9 +6,11 @@
 - `npx pod-install`
 
 
-- `yarn run ios` > Builds successfully and renders first item in each json file
-vs.
-- `yarn run ios --configuration Release` > Crashes instantly on launching the app.
+- `yarn run ios`: Builds successfully and renders as expected
+###vs.
+- `yarn run release-ios`: Builds successfully and renders as expected
+###vs.
+- Build using Profile in XCode:
 
 In the screenshot below the simulator was built with in Debug mode, but the Profilor's instrument was built with Release mode.
 
