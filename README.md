@@ -7,9 +7,9 @@
 
 
 - `yarn run ios`: Builds successfully and renders as expected
-###vs.
+### vs.
 - `yarn run release-ios`: Builds successfully and renders as expected
-###vs.
+### vs.
 - Build using Profile in XCode:
 
 In the screenshot below the simulator was built with in Debug mode, but the Profilor's instrument was built with Release mode.
