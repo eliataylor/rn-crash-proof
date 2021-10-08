@@ -1,11 +1,11 @@
 # Reproducible demo of React Native 0.63.3 crashing when importing large static json.
 
-#### Build
+#### Setup
 - `node data/data-build.js`
 - `yarn install`
 - `npx pod-install`
 
-
+#### Test
 - `yarn run ios`: Builds successfully and renders as expected
 ### vs.
 - `yarn run release-ios`: Builds successfully and renders as expected
